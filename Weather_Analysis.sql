@@ -1,4 +1,4 @@
-CREATE DATABASE Weather;
+CREATE DATABASE Weather; 
 
 use Weather;
 
